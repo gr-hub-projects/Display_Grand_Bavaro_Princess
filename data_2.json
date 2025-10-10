@@ -3,10 +3,18 @@
     "type": "JSON",
     "content": [
       {
-        "id": "1GKL8H",
-        "Flight": "AV137",
+        "id": "3667778",
+        "Flight": "WS2405",
         "PickupDate": "2025-10-11",
-        "PickupTime": "15:30",
+        "PickupTime": "11:10",
+        "HotelName": "Grand Bávaro Princess",
+        "HotelNumber": 16594
+      },
+      {
+        "id": "3667775",
+        "Flight": "WS2405",
+        "PickupDate": "2025-10-11",
+        "PickupTime": "11:20",
         "HotelName": "Grand Bávaro Princess",
         "HotelNumber": 16594
       }
