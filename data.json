@@ -1,24 +1,7 @@
 {
   "templates": {
     "type": "JSON",
-    "content": [
-      {
-        "id": "145098632",
-        "Flight": "WS2101",
-        "PickupDate": "2025-11-26",
-        "PickupTime": "10:15",
-        "HotelName": "Grand Bávaro Princess",
-        "HotelNumber": 16594
-      },
-      {
-        "id": "461-2727786",
-        "Flight": "AV253",
-        "PickupDate": "2025-11-29",
-        "PickupTime": "14:55",
-        "HotelName": "Grand Bávaro Princess",
-        "HotelNumber": 16594
-      }
-    ],
+    "content": [],
     "source": {
       "data_source": "Google Sheets (Private)",
       "update_frequency": "Automated"
