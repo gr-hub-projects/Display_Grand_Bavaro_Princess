@@ -22,6 +22,14 @@
         "id": "461-2677707",
         "Flight": "AC1791",
         "PickupDate": "2025-12-14",
+        "PickupTime": "⚠️",
+        "HotelName": "Grand Bávaro Princess",
+        "HotelNumber": 16594
+      },
+      {
+        "id": "461-2677707",
+        "Flight": "AC1791",
+        "PickupDate": "2025-12-14",
         "PickupTime": "09:15",
         "HotelName": "Grand Bávaro Princess",
         "HotelNumber": 16594
