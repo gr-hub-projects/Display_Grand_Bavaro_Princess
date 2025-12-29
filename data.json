@@ -1,7 +1,16 @@
 {
   "templates": {
     "type": "JSON",
-    "content": [],
+    "content": [
+      {
+        "id": "HSTON-27462482",
+        "Flight": "TS611",
+        "PickupDate": "2025-12-29",
+        "PickupTime": "08:55",
+        "HotelName": "Grand Bávaro Princess",
+        "HotelNumber": 16594
+      }
+    ],
     "source": {
       "data_source": "Google Sheets (Private)",
       "update_frequency": "Automated"
