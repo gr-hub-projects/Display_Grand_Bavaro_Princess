@@ -3,42 +3,10 @@
     "type": "JSON",
     "content": [
       {
-        "id": "149520653",
-        "Flight": "WS2377",
-        "PickupDate": "2026-02-27",
-        "PickupTime": "07:00",
-        "HotelName": "Grand Bávaro Princess",
-        "HotelNumber": 16594
-      },
-      {
-        "id": "4C54FH",
-        "Flight": "WS2103",
-        "PickupDate": "2026-02-27",
-        "PickupTime": "13:00",
-        "HotelName": "Grand Bávaro Princess",
-        "HotelNumber": 16594
-      },
-      {
-        "id": "150730243",
-        "Flight": "WS2913",
-        "PickupDate": "2026-02-27",
-        "PickupTime": "12:30",
-        "HotelName": "Grand Bávaro Princess",
-        "HotelNumber": 16594
-      },
-      {
-        "id": "150314453",
+        "id": "150393692",
         "Flight": "WS2105",
-        "PickupDate": "2026-02-27",
-        "PickupTime": "03:35",
-        "HotelName": "Grand Bávaro Princess",
-        "HotelNumber": 16594
-      },
-      {
-        "id": "150058712",
-        "Flight": "WS2103",
-        "PickupDate": "2026-02-27",
-        "PickupTime": "12:30",
+        "PickupDate": "2026-03-02",
+        "PickupTime": "03:30",
         "HotelName": "Grand Bávaro Princess",
         "HotelNumber": 16594
       }
